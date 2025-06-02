@@ -128,6 +128,17 @@ line of code.
 
     A high-contrast theme using shades of blue to emphasize data trends and maintain a clean, professional aesthetic.
 
+=== "VSCODE-DARK"
+
+    ![](img/vscode-dark.png)
+
+    ```python
+    import morethemes as mt
+    mt.set_theme("vscode-dark")
+    ```
+
+    A dark theme inspired by Visual Studio Code's dark mode.
+
 <br>
 
 ## Installation
@@ -136,7 +147,7 @@ line of code.
 pip install morethemes
 ```
 
-Don’t want to add **`morethemes`** as a dependency? You can either
+Don't want to add **`morethemes`** as a dependency? You can either
 browse the [source
 code](https://github.com/JosephBARBIERDARNAL/morethemes/blob/main/morethemes/themes.py)
 to find the rcParams, or use the `mt.get_rcparams("theme_name")`
