@@ -1,3 +1,9 @@
+# 🚨 Important Notice
+
+> This repo has migrated [here](https://github.com/y-sunflower/morethemes)!
+
+<br><br><br>
+
 <!-- Automatically generated, uses README.qmd to modify README.md -->
 
 # `morethemes`: more themes for matplotlib
